@@ -14,12 +14,16 @@ public class Shukudai8 {
 		
 		//estrutura de repetição limitada
 		
-		for (int i = 0; i < 3; i++) {
+		for (int i = 0; i < 200; i++) {
 		System.out.println("Digite o código do item");
 		item = sc.nextInt();
+		
+
+		if (item == 0) break;
+		
 		System.out.println("Digite a quantidade do item");
 		quantidade = sc.nextInt();
-				
+		
 				
 		switch (item) {
 		case 1:

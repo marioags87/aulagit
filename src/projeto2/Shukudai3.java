@@ -30,7 +30,7 @@ public class Shukudai3 {
 		
 		double Total = (QtP1 * ValorUniP1 + QtP2 * ValorUniP2);
 		
-		System.out.printf("Valor Total a Pagar = R$ %.2f", + Total);
+		System.out.printf("Valor Total a Pagar = R$ %.2f", Total);
 		
 	}
 

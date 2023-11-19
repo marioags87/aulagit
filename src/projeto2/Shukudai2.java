@@ -21,10 +21,9 @@ public class Shukudai2 {
 		sc.close();
 		
 		double salario = (Horas * Valor);
-		
+				
 		System.out.println("Número do Funcionário = " + Funcionario);
-		System.out.printf("Salário = R$ %.2f", + salario);
-
+		System.out.printf("Salário = R$ %.2f", salario);
 	}
 
 }

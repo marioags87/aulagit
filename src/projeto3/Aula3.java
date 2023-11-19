@@ -19,9 +19,9 @@ public class Aula3 {
 		if (numero < 0)
 			System.out.println("NEGATIVO");
 		else 
-			System.out.println("NÃO NEGATIVO");
+			System.out.println("POSITIVO");
 		//string Operador Ternário
-		resultado = numero < 0 ? "NEGATIVO" : "NÃO NEGATIVO";
+		resultado = numero < 0 ? "NEGATIVO" : "POSITIVO";
 		System.out.println(resultado);
 		
 	}

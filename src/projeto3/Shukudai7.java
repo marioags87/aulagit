@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Shukudai7 {
 
 	public static void main(String[] args) {
-Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		int horaIni;
 		int horaFim;
@@ -17,6 +17,7 @@ Scanner sc = new Scanner(System.in);
 		horaFim = sc.nextInt();
 		
 		sc.close();
+		
 		if (horaIni > 23) horaIni = 23;
 		else if (horaIni < 0) horaIni = 0;
 		
