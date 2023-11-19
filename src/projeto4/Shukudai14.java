@@ -22,7 +22,9 @@ public class Shukudai14 {
             System.out.println("Álcool: " + alcool);
             System.out.println("Gasolina: " + gasolina);
             System.out.println("Diesel: " + diesel);
+
             //o ++ acumula o valor a cada vez que digitar a variavel
+            
         }else if (numero == 3){diesel++;}
         else if (numero == 2){gasolina++;}
         else if (numero == 1){alcool++;}
