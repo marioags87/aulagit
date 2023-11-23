@@ -20,7 +20,6 @@ public class Shukudai16 {
 
       if (escolhaJogador < 1 || escolhaJogador > 3) {
         System.out.println("Escolha inválida. Tente novamente.");
-        continue;
       }
 
       int escolhaComputador = random.nextInt(3) + 1;
