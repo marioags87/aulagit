@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aula1",
+            "request": "launch",
+            "mainClass": "projeto1.Aula1",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Aula2",
+            "request": "launch",
+            "mainClass": "projeto2.Aula2",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Dado",
+            "request": "launch",
+            "mainClass": "projeto2.Dado",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Questao1",
+            "request": "launch",
+            "mainClass": "projeto2.Questao1",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai",
+            "request": "launch",
+            "mainClass": "projeto2.Shukudai",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai2",
+            "request": "launch",
+            "mainClass": "projeto2.Shukudai2",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai3",
+            "request": "launch",
+            "mainClass": "projeto2.Shukudai3",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai4",
+            "request": "launch",
+            "mainClass": "projeto2.Shukudai4",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Aula3",
+            "request": "launch",
+            "mainClass": "projeto3.Aula3",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai5",
+            "request": "launch",
+            "mainClass": "projeto3.Shukudai5",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai6",
+            "request": "launch",
+            "mainClass": "projeto3.Shukudai6",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai7",
+            "request": "launch",
+            "mainClass": "projeto3.Shukudai7",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai8",
+            "request": "launch",
+            "mainClass": "projeto3.Shukudai8",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai9",
+            "request": "launch",
+            "mainClass": "projeto3.Shukudai9",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Aula5",
+            "request": "launch",
+            "mainClass": "projeto4.Aula5",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Jokenpo",
+            "request": "launch",
+            "mainClass": "projeto4.Jokenpo",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "SenhaLimitada",
+            "request": "launch",
+            "mainClass": "projeto4.SenhaLimitada",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai10",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai10",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai11",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai11",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai12",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai12",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai13",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai13",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai14",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai14",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai15",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai15",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai16",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai16",
+            "projectName": "teste1"
+        },
+        {
+            "type": "java",
+            "name": "Shukudai17",
+            "request": "launch",
+            "mainClass": "projeto4.Shukudai17",
+            "projectName": "teste1"
+        }
+    ]
+}
