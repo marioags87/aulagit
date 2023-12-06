@@ -30,17 +30,9 @@ public class OrientacaoObjetos {
     //Instaciar o triangulo Y usando o construtor completo
     y = new Triangle(a, b, c);
 
-    double p = (x.getA() + x.getB() + x.getC()) / 2.0;
-    double areaX = Math.sqrt(
-      p * (p - x.getA()) * (p - x.getB()) * (p - x.getC())
-    );
-    p = (y.getA() + y.getB() + y.getC()) / 2.0;
-    double areaY = Math.sqrt(
-      p * (p - y.getA()) * (p - y.getB()) * (p - y.getC())
-    );
-    System.out.printf("Triangle X area: %.4f%n", areaX);
-    System.out.printf("Triangle Y area: %.4f%n", areaY);
-    if (areaX > areaY) {
+    System.out.printf("Triangle X area: %.4f%n", x.area());
+    System.out.printf("Triangle Y area: %.4f%n", y.area());
+    if (x.area() > y.area()) {
       System.out.println("Larger area: X");
     } else {
       System.out.println("Larger area: Y");

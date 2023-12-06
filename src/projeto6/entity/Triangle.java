@@ -42,4 +42,10 @@ public class Triangle {
   public void setC(Double c) {
     this.c = c;
   }
+
+  //delegar o calculo da area pro objeto
+  public Double area() {
+    double p = (a + b + c) / 2.0;
+    return Math.sqrt(p * (p - a) * (p - b) * (p - c));
+  }
 }
